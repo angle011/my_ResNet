@@ -183,7 +183,12 @@ def sreach_cls_num():
 if __name__ == "__main__":
     # torch.cuda.empty_cache()
 
-    tes_cuda()
+    # tes_cuda()
+    # i have change
+
+
+
+
     # _state_load_dict()
     # val_demo()
     # sreach_cls_num()
